@@ -1,7 +1,7 @@
 # TrabalhoAnalise
 
-# O Sisgee_Andre
-Tem o diagrama de dominio e o primeiro caso de uso com seus diagramas
+# O Sisgee_Andre_E_Nomes
+Diagrama enviado na parte 1 do trabalho.Cheio de metodos,atributos,classes duplicados
 
-# O Sisgee_Andre_Completo
-Tem agora 2 casos de uso com seus diagramas ja corrigidos pelo professor
+# O Sisgee_Atual
+Trabalho da parte 2.Esta quase completo.Falta 3 diagramas de classe e sequencia e 1 de atividades.
